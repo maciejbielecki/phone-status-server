@@ -34,7 +34,7 @@ Make sure the Termux:API app is installed on your Android device.
 Start the server:
 
 ```bash
-python server.py
+./phone-status-server
 ```
 
 Then open the endpoint in your browser or use `curl`:
