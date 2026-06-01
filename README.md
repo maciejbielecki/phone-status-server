@@ -40,7 +40,7 @@ Start the server:
 Then open the endpoint in your browser or use `curl`:
 
 ```bash
-curl http://localhost:8080
+curl http://localhost:7878
 ```
 
 Example response:
